@@ -31,7 +31,7 @@ Concrete examples.
 
 A tool which lets you convert TEI datasets from inline to standoff and vice versa. 
 
-## Applying NLP tools to TEI-econded texts
+## Applying NLP tools to TEI-ecoded texts
 
 In this seciton, we'll take you step-by-step through the process of adding lingusitic annotations to TEI-ecnoded texts. 
 
